@@ -1,4 +1,4 @@
-# fluttery
+# rhythm
 
 A new Flutter project.
 
